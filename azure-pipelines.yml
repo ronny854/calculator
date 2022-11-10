@@ -21,4 +21,5 @@ steps:
     npm install
     npm run build
     npm test
+    echo holii :v
   displayName: 'npm install, build, and test'
